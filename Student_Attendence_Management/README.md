@@ -74,13 +74,13 @@ Berikut adalah rincian fungsi utama yang membangun logika aplikasi ini:
 ## ⚙️ Cara Instalasi & Menjalankan Program
 
 ### 1️⃣ Clone atau Download Repository
-
+```bash
 git clone https://github.com/username/student-attendance-management.git
 cd student-attendance-management
 g++ attendance.cpp -o attendance
 ./attendance
 attendance.exe 
-
+```
 ---
 
 ## 🎥 Video Demo
