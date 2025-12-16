@@ -71,6 +71,19 @@ Berikut adalah rincian fungsi utama yang membangun logika aplikasi ini:
 | **File `.dat`** | Media penyimpanan persisten untuk data mahasiswa & log kehadiran. |
 
 ---
+
+## 📚 Materi Dasar Pemrograman yang Diterapkan
+
+| Konsep Materi | Implementasi dalam Kode |
+| :--- | :--- |
+| **Variabel & Tipe Data** | Menyimpan nama, NIM, dan password mahasiswa. |
+| **Percabangan** | Penentuan hak akses (Admin vs Mahasiswa). |
+| **Perulangan** | Menampilkan daftar mahasiswa dari file secara berurutan. |
+| **Fungsi** | Pembagian logika program menjadi sub-program mandiri. |
+| **Array (Vector)** | Penyimpanan data mahasiswa sementara di memori. |
+| **File Handling** | Operasi *Read/Write* pada database `.dat` atau `.txt`. |
+
+---
 ## ⚙️ Cara Instalasi & Menjalankan Program
 
 ### 1️⃣ Clone atau Download Repository
